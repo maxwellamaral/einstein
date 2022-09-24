@@ -1,6 +1,7 @@
+#  -*- coding: utf-8 -*-
 """
-Realiza a advinhação de uma resposta para uma pergunta.
-Por enquanto funciona somente em Python para Windows
+Realiza a 'advinhação' de uma resposta para uma pergunta.
+Por enquanto funciona somente em Python > 3.0 para Windows
 Adaptado de https://github.com/asweigart/pwinput/blob/main/src/pwinput/__init__.py
 """
 import random
@@ -53,9 +54,9 @@ if __name__ == '__main__':
     os.system('cls')
     print('\n\n')
     print('---------------------------------------------------------------------------------')
-    print('---- Olá, sou o computador, sou dotado de altissima inteligencia artificial -----')
-    print('------------ Sei o que vejo, e às vezes sei até o que não vejo ------------------')
-    print('---- Vou tentar advinhar a resposta para a pergunta que você vai me fazer. ------')
+    print('------------- Olá, sou Einsten, apesar de morto, meu espírito vive --------------')
+    print('-------------- Sei o que vejo, e às vezes sei até o que não vejo ----------------')
+    print('------------ Vou tentar responder a pergunta que você vai me fazer. -------------')
     print('---------------------------------------------------------------------------------')
     print('\n\n')
     print('Faça em uma pergunta e pressione ENTER para continuar.\n\n')
